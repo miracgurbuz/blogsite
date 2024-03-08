@@ -1,0 +1,27 @@
+@media screen and (min-width: 805px) and (max-width: 1080px) {
+	.subnav { width: 22.9166667%;}
+}
+@media screen and (min-width: 321px) and (max-width: 804px) {
+	.subnav { width: 45.8333333%;}
+}
+@media screen and (max-width: 320px){
+	.subnav { width: 100%;}
+}
+
+
+.subnav {
+/*width: 22.9166667%;*/
+float: left;
+margin-right: 2.0833333%;
+}
+
+article {
+float: left;
+width: 45.8333333%;
+}
+
+aside {
+width: 22.9166667%;
+float: right;
+}
+

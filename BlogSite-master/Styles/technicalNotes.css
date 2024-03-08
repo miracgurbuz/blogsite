@@ -1,0 +1,57 @@
+body 
+{
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+header
+{
+	height:50px;
+}
+
+header h1
+{
+	margin-bottom:10px;
+}
+
+#main>div
+{
+    width:310px;
+    height:320px;
+    background-color:yellow;
+    border:1px solid black;
+    float:left;
+}
+
+footer
+{
+    width:100%;
+    background-color:blue;
+    float:left;
+}
+
+/**********************************/
+/***********Navigation*************/
+/**********************************/
+
+nav ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li
+{
+	background-color:grey;
+	color: #FFFFFF;
+	display:inline;
+	padding:5px;
+}
+
+nav ul li a
+{
+	color: #FFFFFF;	
+	text-decoration:none;
+}
